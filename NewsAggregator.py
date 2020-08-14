@@ -2,7 +2,7 @@
 
 # Parse RSS feeds of the given websites to return latest posts.
 # The script will print out basic details of a post in a formatted
-# form and limit the results to 10 entries.
+# output and limit the results to 10 entries.
 
 import feedparser
 from itertools import islice
